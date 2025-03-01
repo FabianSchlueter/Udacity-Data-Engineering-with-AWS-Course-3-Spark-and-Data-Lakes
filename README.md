@@ -25,3 +25,7 @@ Some of the early adopters have agreed to share their data for research purposes
 
 ### Project Summary
 As a data engineer on the STEDI Step Trainer team, you'll need to extract the data produced by the STEDI Step Trainer sensors and the mobile app, and curate them into a data lakehouse solution on AWS so that Data Scientists can train the learning model.
+
+### Project Data
+The project data is available here: <https://github.com/udacity/nd027-Data-Engineering-Data-Lakes-AWS-Exercises/tree/main/project/starter>
+In this project this data must be initially uploaded to AWS S3.
